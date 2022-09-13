@@ -17,6 +17,9 @@
         <module>litchimall-order</module>
         <module>litchimall-product</module>
         <module>litchimall-ware</module>
+        <module>renren-fast</module>
+        <module>renren-generator</module>
+        <module>litchimall-commom</module>
     </modules>
 
 
