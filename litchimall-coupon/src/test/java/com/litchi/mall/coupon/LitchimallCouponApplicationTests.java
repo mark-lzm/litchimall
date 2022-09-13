@@ -1,10 +1,10 @@
-package com.litchi.mall.litchimallware;
+package com.litchi.mall.coupon;
 
 import org.junit.jupiter.api.Test;
 import org.springframework.boot.test.context.SpringBootTest;
 
 @SpringBootTest
-class LitchimallWareApplicationTests {
+class LitchimallCouponApplicationTests {
 
     @Test
     void contextLoads() {

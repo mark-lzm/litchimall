@@ -1,4 +1,4 @@
-package com.litchi.mall.litchimallcoupon;
+package com.litchi.mall.coupon;
 
 import org.springframework.boot.SpringApplication;
 import org.springframework.boot.autoconfigure.SpringBootApplication;
