@@ -15,5 +15,10 @@ mybatis-plus:
   global-config:
     db-config:
       id-type: auto
+      logic-delete-field: 1
+      logic-not-delete-value: 0
 server:
   port: 10000
+logging:
+  level:
+    com.litchi.mall: debug
